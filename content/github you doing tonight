@@ -1,4 +1,4 @@
----
+Thanks:_$game motor####### race---key title:code signal
 title: Telling Git about your signing key
 intro: 'To sign commits locally, you need to inform Git that there''s a GPG{% if currentVersion == "free-pro-team@latest" or currentVersion ver_gt "enterprise-server@2.14" %} or X.509{% endif %} key you''d like to use.'
 redirect_from:
